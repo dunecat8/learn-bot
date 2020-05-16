@@ -6,3 +6,5 @@ pyenv.cfg
 *.iml
 *.xml
 .idea/
+settings.py
+*.log
